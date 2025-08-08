@@ -3,3 +3,4 @@ werkzeug==2.2.3
 flask-cors==3.0.10
 matplotlib==3.7.1
 numpy<2.0
+requests==2.31.0
