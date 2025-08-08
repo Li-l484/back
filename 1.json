@@ -1,0 +1,24 @@
+  {
+    "id": 1777858,
+    "name": null,
+    "location": "X=326.2200095 Y=466.1000255 Z=0",
+    "rotation": "P=0 Y=-90 R=0",
+    "scale": "X=-1.000 Y=-1.000 Z=1.000",
+    "width": 1307,
+    "length": 669.1,
+    "height": 2799.9,
+    "sysObjName": "其他活动家具",
+    "classifyName": "洗衣机柜"
+  },
+  {
+    "id": 1260127,
+    "name": null,
+    "location": "X=569.150024 Y=-270.124969 Z=0.000000",
+    "rotation": "P=0.000000 Y=-89.999992 R=0.000000",
+    "scale": "X=-1.000 Y=-1.000 Z=1.000",
+    "width": 2600,
+    "height": 2799.9,
+    "length": 600,
+    "sysObjName": "定制衣柜",
+    "classifyName": "掩门衣柜"
+  },
