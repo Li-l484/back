@@ -17,6 +17,8 @@ jobs:
         pip install -r requirements.txt
     - name: Run application with Gunicorn
       run: |
-        gunicorn --bind 0.0.0.0:5000 main:app
+        gunicorn --bind 0.0.0.0:5000 main:app &
+        sleep 3
+        npx localtunnel --port 5000 --subdomain my-floorplan-app
       env:
         FLASK_ENV: production
