@@ -1,8 +1,6 @@
 import json
 import requests
 from flask import request
-from sqlalchemy import null
-import main
 
 
 def parse_scale(scale_str):

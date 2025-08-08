@@ -3,8 +3,6 @@ import io
 
 import matplotlib.pyplot as plt
 import numpy as np
-from flask import Flask, send_file, abort
-from flask_cors import CORS
 from matplotlib.patches import Polygon, Rectangle
 import re
 import math

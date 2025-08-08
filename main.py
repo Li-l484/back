@@ -1,7 +1,6 @@
 from flask import Flask, abort, send_file, jsonify, request
 from flask_cors import CORS
 import draw
-import os
 import check
 
 app = Flask(__name__)
